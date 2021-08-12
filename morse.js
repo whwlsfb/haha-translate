@@ -18,5 +18,6 @@ function getoption() {
     space: " ",
     short: "？",
     long: "哈",
+    caseSensitive: true
   };
 }
